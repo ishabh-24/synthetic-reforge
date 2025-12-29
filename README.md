@@ -35,24 +35,6 @@ As the player repairs robots, dialogue reveals their circumstances, promoting **
 
 ---
 
-## **Educational & NSF Focus Areas**
-
-*Synthetic Reforge* incorporates several NSF-aligned focus areas, including:
-
-- **Technology & Engineering**
-  - Introduction to robotic systems
-  - Principles of modular design and mechanical repair  
-
-- **STEM Learning Through Play**
-  - Gamified exposure to robotics, AI, and prosthetics  
-  - Encourages inquiry-based learning without intimidation  
-
-- **Real-World Applications**
-  - Highlights the potential role of robotics and prosthetics in **rehabilitation**
-  - Sparks discussion on ethical considerations and future medical technology  
-
----
-
 ## **Demos**
 - Web-Based Playable Demo: https://play.unity.com/en/games/afdcddbe-5aa2-41cf-affe-2a0000feda7b/build   
 - Video Demo: https://drive.google.com/file/d/16bUxn6vmfPHzecuOtAB3XdHTNth10j2Y/view?usp=sharing
