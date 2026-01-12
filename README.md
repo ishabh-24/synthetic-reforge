@@ -13,12 +13,6 @@ While the game is designed to be most impactful in **virtual reality**, the vers
 
 ---
 
-## **Game Concept & Story**
-
-In a world where humans have disappeared, robots must maintain themselves to preserve what’s left of civilization. The game is played in a run-down repair shack against a futuristic skyline, aiming to show the gap between advanced technology and a decaying environment. As robots are repaired, dialogue describes their stories, creating empathy and emotional connection even without human characters. 
-
----
-
 ## **Gameplay Mechanics**
 
 ### **Core Mechanics**
